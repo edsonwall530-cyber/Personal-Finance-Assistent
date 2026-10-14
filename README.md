@@ -4,7 +4,7 @@ Aplicativo desktop de controle financeiro desenvolvido em Python, com interface 
 
 ## Sobre o projeto
 
-O objetivo é facilitar o registro, a organização e o acompanhamento de movimentações financeiras.
+O objetivo é facilitar o registro, a organização e o acompanhamento de movimentações financeiras pessoais.
 
 O projeto foi desenvolvido como parte do meu aprendizado prático em programação Python, manipulação de dados e bancos de dados relacionais.
 
