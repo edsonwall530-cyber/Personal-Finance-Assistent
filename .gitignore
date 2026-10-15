@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Bancos de dados financeiros
+*.db
+*.sqlite
+*.sqlite3
+
+# Arquivos de credenciais
+.env
+.env.*
+!.env.example
