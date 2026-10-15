@@ -35,6 +35,14 @@ O projeto foi desenvolvido como parte do meu aprendizado prático em programaç�
 
 O aplicativo cria automaticamente as tabelas necessárias no banco de dados SQLite.
 
+
+## Demonstração do aplicativo
+
+A imagem abaixo apresenta o resumo financeiro mensal do aplicativo, utilizando dados fictícios para demonstrar suas funcionalidades.
+
+![Resumo mensal do aplicativo financeiro](Images/resumo-mensal.PNG)
+  
+
 ## Status do projeto
 
 Em desenvolvimento.
